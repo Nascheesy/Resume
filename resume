@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <img src="https://sun9-18.userapi.com/impg/F-KA7q8A8de3qQr5oucl86HkyPr932TCqR6rjQ/FpeqRBpUvNc.jpg?size=1620x2160&quality=95&sign=4d42fe4b0d4c87d68d5967da5c0232ca&type=album">
+   <h1>Анастасия Сивкова </h1>
+  <p> Я начинающий <strong> программист. </strong> Я люблю <em>рисовать</em> и <em> играть в видеоигры. </em> </p>
+<h2>Список социальных сетей: </h2>
+<a href="https://instagram.softonic.ru/" target="_blank">instagram</a>
+|
+<a href="https://vk.com/feed" target="_blank">VK</a>
+|
+<a href="https://www.youtube.com/" target="_blank">YouTube</a>
+</body>
+</html>
